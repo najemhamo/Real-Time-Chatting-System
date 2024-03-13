@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.0",
+    "ng-angular-popup": "^0.5.2"
+  }
+}
